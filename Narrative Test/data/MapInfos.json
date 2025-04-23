@@ -1,8 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Clark's Town","order":1,"parentId":0,"scrollX":816,"scrollY":1024},
-{"id":2,"expanded":false,"name":"Forest","order":3,"parentId":0,"scrollX":816,"scrollY":800},
-{"id":3,"expanded":false,"name":"Village House 1F","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"path","order":4,"parentId":2,"scrollX":816,"scrollY":800},
-{"id":5,"expanded":false,"name":"Nomad Camp","order":5,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1152}
+{"id":1,"expanded":true,"name":"Clark's Town","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1023.4285714285713},
+{"id":2,"expanded":true,"name":"Forest","order":3,"parentId":0,"scrollX":1404,"scrollY":768},
+{"id":3,"expanded":false,"name":"Village House 1F","order":2,"parentId":1,"scrollX":1404,"scrollY":768},
+{"id":4,"expanded":false,"name":"Path - Fall","order":4,"parentId":2,"scrollX":1404,"scrollY":768},
+{"id":5,"expanded":true,"name":"Nomad Camp","order":6,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1152},
+{"id":6,"expanded":false,"name":"Path to Nomad","order":5,"parentId":2,"scrollX":1404,"scrollY":754.2857142857142},
+{"id":7,"expanded":false,"name":"Enter Camp","order":7,"parentId":5,"scrollX":1404,"scrollY":768},
+{"id":8,"expanded":false,"name":"Below Camp - Encounter","order":8,"parentId":5,"scrollX":1404,"scrollY":768}
 ]
